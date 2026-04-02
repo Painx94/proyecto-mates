@@ -1,4 +1,4 @@
 print("Esto es una integral, que me gusta mucho")
-print("Esto va entrar en conflicto")
+print("Esto va entrar en conflicto").primer commit,segundo commit.
 
 
